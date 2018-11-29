@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewsApp-Stage1</string>
+    <string name="request_url"><![CDATA[http://content.guardianapis.com/search?show-tags=contributor&api-key=test]]></string>
+    <string name="contenterrormessages">NO NEWS FOUND\nReopen app once Internet connection returns</string>
+    <string name="interneterrormessages">NO INTERNET CONNECTION DETECTED\nReopen app once Internet connection returns</string>
+</resources>
